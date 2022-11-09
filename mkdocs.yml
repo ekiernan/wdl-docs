@@ -3,6 +3,7 @@ theme:
   name: readthedocs
   include_homepage_in_sidebar: true
   navigation_depth: 4
+  highlightjs: true
 
 nav:
   - Home: 'index.md'
