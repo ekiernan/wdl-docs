@@ -4,7 +4,7 @@
 
 Sometimes when pipelining, there are steps you want to run sometimes and not other times. This could mean switching between two paths (e.g. run a tool in modeA vs. run a tool in modeB) or skipping a step entirely (e.g. run a tool vs. not running a tool). In cases such as these, we will use a *conditional* statement.
 
-![Diagram depicting an input going through a process called StepA, producing output. After, a conditional is used to determine if the output should be used as input StepB, which produces an output that is used as an optional input to task C](../Images/conditional_generic.png)
+![Diagram depicting an input going through a process called StepA, producing output. After, a conditional is used to determine if the output should be used as input StepB, which produces an output that is used as an optional input to task C](Images/conditional_generic.png)
 
 To use a conditional statement in WDL, you write a standard `if()`statement:
 
