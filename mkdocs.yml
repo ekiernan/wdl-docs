@@ -16,8 +16,8 @@ nav:
     - 'Execute!': 'execute.md'
     - 'Toolkit: All the tools you need to write and run WDLs': 'toolkit.md'
   - 'WDL Plumbing Options':
-    - 'Linear chaining': 'Linear_chaining.md'
-    - 'Branch and merge': 'Branch_and_merge.md'
+    - 'Linear chaining': 'wdl_plumbing/Linear_chaining.md'
+    - 'Branch and merge': 'wdl_plumbing/Branch_and_merge.md'
     - 'Multi-input/Multi-output': 'MultiInput_MultiOutput.md'
     - 'Scatter-gather parallelism': 'ScatterGather_parallelism.md'
     - 'Task aliasing': 'task_aliasing.md'
